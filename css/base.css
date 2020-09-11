@@ -160,7 +160,7 @@ a:focus {
 	margin-top: 13vh;
 	font-size: 30vh;
 	font-family: essonnes-display, serif;
-	mix-blend-mode: soft-light;
+	mix-blend-mode: hard-light;
 	font-weight: normal;
 	text-align: center;
 	color: #c2ba8b;
