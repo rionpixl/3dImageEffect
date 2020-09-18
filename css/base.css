@@ -10,8 +10,8 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 }
 
 body {
-	--color-text: #fff;
-	--color-bg: #0e0e0f;
+	--color-text: rgb(122, 121, 121);
+	--color-bg: #ffffff;
 	--color-link: #826437;
 	--color-link-hover: #fff;
 	color: var(--color-text);
