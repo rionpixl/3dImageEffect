@@ -107,6 +107,7 @@ a:focus {
 }
 
 .frame {
+	margin-top: 10%;
 	padding: 3rem 5vw;
 	text-align: center;
 	position: relative;
